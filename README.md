@@ -28,7 +28,7 @@ A robust Backend API for a community-driven Q&A platform
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/nopparat-cysit/backend-skill-checkpoint-express-server.git](https://github.com/nopparat-cysit/backend-skill-checkpoint-express-server.git)
+    git clone [https://github.com/nopparat-cysit/backend-skill-checkpoint-express-server.git]
     cd backend-skill-checkpoint-express-server
     ```
 
